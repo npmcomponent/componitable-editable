@@ -1,5 +1,5 @@
-var emitter = require('emitter');
-var matchesSelector = require('matches-selector');
+var emitter = require('component-emitter');
+var matchesSelector = require('component-matches-selector');
 
 emitter(module.exports);
 

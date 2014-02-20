@@ -1,0 +1,10 @@
+{
+  "name": "componitable-editable",
+  "description": "Inline editing inspired by jEditable",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-matches-selector": "git://github.com/npmcomponent/component-matches-selector.git"
+  }
+}
